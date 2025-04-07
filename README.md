@@ -1,4 +1,5 @@
 🔐 Recovery Code Brute-Forcer
+
 This is a multithreaded Python script to brute-force 4-digit recovery codes for a password reset form (reset_password.php).
 It simulates requests using random X-Forwarded-For headers, includes retry logic for reliability, and attempts to set a new password upon successful recovery code detection.
 
